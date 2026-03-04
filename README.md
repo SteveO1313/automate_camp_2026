@@ -14,6 +14,7 @@ Kianureif
 
 test
 
+<<<<<<< Updated upstream
 champ eiei
 
 man
@@ -103,3 +104,6 @@ Witidtayapond
 
 
 #Tosapol Mokeaw
+=======
+Tosapol Mokeaw
+>>>>>>> Stashed changes
