@@ -1,17 +1,7 @@
 # automate_camp_2026
+champ eiei
 
-
-Kianureif
-
-
-something
-
-Tee
-
-Kianureif
-
-test
-Champ singel mak mak
+pinkpink
 
 
 
@@ -27,4 +17,28 @@ PIm
 
 
 
-chaowat_GG commit
+
+
+
+
+
+
+ABC Commit by chaowat
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Nutthida
