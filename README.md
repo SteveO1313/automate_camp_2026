@@ -1,8 +1,6 @@
 # automate_camp_2026
-<<<<<<< HEAD
 
 KK
-=======
 
 Kianureif
 
@@ -16,7 +14,6 @@ Kianureif
 test
 =======
 champ eiei
->>>>>>> 275a34e96eab6fe3feb76fb15afab5545ab59ca1
 
 
 
