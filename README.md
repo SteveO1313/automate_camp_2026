@@ -4,6 +4,7 @@ KK
 
 Kianureif
 
+Thanipat
 
 something
 
@@ -53,7 +54,7 @@ Nitchisa
 
 
 
-
+pmpmpmpmp88888888888888888
 
 
 
@@ -64,4 +65,8 @@ Nitchisa
 
 
 Nutthida
+<<<<<<< HEAD
+
+=======
 >>>>>>> 275a34e96eab6fe3feb76fb15afab5545ab59ca1
+>>>>>>> 3f0886fd30a4d0bc0b8f4b42c8a09886879d4a84
